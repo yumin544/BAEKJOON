@@ -17,4 +17,3 @@ while j < i:
         print(0 if len(result) else 1)
     else:
         print(-1)
-# 솔직히 패스
